@@ -1,0 +1,26 @@
+.itemInList {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.item {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 5px;
+}
+
+.item:hover {
+  cursor: pointer;
+  background-color: rgb(218, 215, 215);
+}
+
+.active {
+  background-color: rgb(218, 215, 215);
+}
+
+.icon {
+  color: rgb(54, 54, 193);
+  font-size: 1rem;
+}

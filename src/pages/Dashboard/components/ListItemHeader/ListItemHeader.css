@@ -1,0 +1,14 @@
+.listItemTitle {
+  background-color: rgb(54, 54, 193);
+  height: 150px;
+  padding: 10px;
+  color: white;
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+}
+
+.updateAndDelete {
+  display: flex;
+  gap: 10px;
+}

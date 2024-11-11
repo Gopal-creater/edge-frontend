@@ -1,0 +1,9 @@
+.list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 100%;
+  width: 300px;
+  padding: 1rem;
+  box-shadow: 3px 0 5px rgba(128, 128, 128, 0.5); /* Adjust the color and size as needed */
+}

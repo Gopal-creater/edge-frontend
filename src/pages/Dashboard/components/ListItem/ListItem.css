@@ -1,0 +1,8 @@
+.listItem {
+  flex: 1;
+}
+
+.listItemList {
+  flex: 1;
+  padding: 10px;
+}
